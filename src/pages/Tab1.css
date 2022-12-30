@@ -1,0 +1,24 @@
+@keyframes glow {
+    from {
+        box-shadow: 0 0 10px -10px #aef4af;
+        border-radius: 5px;
+    }
+    to {
+        box-shadow: 0 0 10px 10px blueviolet;
+        border-radius: 5px;
+    }
+ }
+
+ .square {  
+    width: 100px;
+    height: 100px;
+    background: rgba(0, 0, 255, 0.5);
+    margin: 10px;
+
+  }
+.square:hover{
+    /* transform: scale(1.10); */
+    transform: rotate(45deg); /* Equal to rotateZ(45deg) */
+    background-color: pink;
+}
+
