@@ -1,6 +1,9 @@
 # Ionic_Test_animation
 Ionic app with animation
 
+Included in this Ionic React Template/UI
+- Ionic Animation
+
 ## Prerequisites
 Before you get started, make sure you have the following tools installed on your machine:
 
